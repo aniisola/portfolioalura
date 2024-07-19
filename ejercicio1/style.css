@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong{
+    color: #22D4FD;
+}
+
+.texto-destacado {
+    color: pink;
+}
+
+.titulo-blog {
+    color: rgb(238, 67, 238);
+}
+
+.section-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+}
+.section-2 {
+    display: flex;
+    align-items: center;
+}
+
+.section-2 .urgente{
+    color: red;
+}
+
+.section1__contenido {
+    width: 615px;
+}
+
+h1 {
+    margin: 10px;
+    border: 1px solid wheat;
+    padding: 3px;
+}
